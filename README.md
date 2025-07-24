@@ -15,4 +15,4 @@ This project aims at looking into HR data and perform analysis and prepare dashb
 9. Quick HR dashboard
 
 ## Dashboard
-![HR Dashboard](HR Dashboard.png)
+![HR Dashboard](https://github.com/BhargaviBadiger/PowerBI-HR-Analytics/blob/c838f943b1a20070b35a5431d12ede9030d6d558/HR%20Dashboard.png)
