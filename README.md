@@ -13,3 +13,6 @@ This project aims at looking into HR data and perform analysis and prepare dashb
 7. Staff growth trend over time
 8. Leave balance analysis
 9. Quick HR dashboard
+
+## Dashboard
+![HR Dashboard](HR Dashboard.png)
